@@ -1,0 +1,3 @@
+Description1: Spring Sale,0.15,2024-05-31
+Description2: Summer Discount,0.1,2024-09-30
+Description3: Holiday Special,0.20,2024-12-25
